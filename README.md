@@ -1,4 +1,4 @@
-In my weather data analysis project, I dedicated efforts to dissecting annual weather-related data from the year 2012. The objective is to gain a deeper understanding of the prevailing conditions, fostering a clear view for better decision-making. The project unfolds through various stages :
+In this project, I dedicated efforts to dissecting annual weather-related data from the year 2012. The objective is to gain a deeper understanding of the prevailing conditions, fostering a clear view for better decision-making. The project unfolds through various stages :
 
 🔴 Data Collection :
 
